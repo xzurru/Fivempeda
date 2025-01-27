@@ -20,3 +20,9 @@
 1. Press F8 on your keyboard
 2. Copy that: quit "Game Crashed: GTA5_b2545.exe!sub_14135A738" 
 3. Paste the copied one in F8 and press  enter
+
+# ---------------------------------------------------------------------------
+
+1. Press F8 on your keyboard
+2. Copy that: quit "Game Crashed: discord.gg/pedamodz" 
+3. Paste the copied one in F8 and press  enter
