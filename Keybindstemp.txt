@@ -1,0 +1,29 @@
+FiveM Keybinds
+
+
+PRESS F8 COPY AND PASTE:
+
+bind keyboard 2 "e sleep"
+bind keyboard x "e guard"
+bind keyboard 3 "e stumble"
+bind keyboard 4 "carry"
+bind keyboard 5 "revive"
+bind keyboard 6 "ids" 
+bind keyboard 7 "e sit"
+bind keyboard 8 "e sitchair"
+
+AND THEN PRESS ENTER
+
+---------------------------
+
+Keyunbinds
+
+
+PRESS F8 COPY AND PASTE:
+
+unbind keyboard "2"
+unbind keyboard "x"
+unbind keyboard "3"
+And so on..
+
+AND THEN PRESS ENTER
